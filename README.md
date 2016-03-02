@@ -3,11 +3,11 @@
 Projeto base para realização do exercício Catálogo de Filmes.
 
 Contém as classes:
-	- Pessoa
-	- Filme
-	- Genero
-	- Serie - esqueleto, a ser implementado no exercício
-	- Teste - possui o main onde é criada uma pessoa e adicionados filmes às suas listas
+- Pessoa
+- Filme
+- Genero
+- Serie - esqueleto, a ser implementado no exercício
+- Teste - possui o main onde é criada uma pessoa e adicionados filmes às suas listas
 
 Uma pessoa possui uma lista de filmes assistidos, e uma lista de filmes que quer assistir, e cada filme possui um gênero.
 
